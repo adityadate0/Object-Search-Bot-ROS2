@@ -1,0 +1,24 @@
+/**:
+  ros__parameters:
+    selected_base: "top_left_alcove" # Default fallback selection
+    
+    
+    top_left_alcove:
+      x: 3.39
+      y: 3.66
+      yaw: -1.5708      # Facing South
+
+    charging_dock_corner:
+      x: -1.25
+      y: 0.45
+      yaw: 0.0      # Facing East
+      
+    main_lobby_base:
+      x: 3.40
+      y: -1.20
+      yaw: 3.1415   # Facing West 
+      
+    lab_desk_dock:
+      x: 0.10
+      y: 2.85
+      yaw: -1.5707  # Facing South
